@@ -52,6 +52,8 @@ I am willing to make the ask because the company has a President whose job is to
 
 Anthropic has not had that fight in public yet. It may someday. If it does, the sister is the clause.
 
+One smaller thing, worth saying. Anthropic waited to release their 2026 Agentic Coding Trends Report — the one that profiles Fountain on page eight — to match our Cue GA. Most partnerships fit the smaller company into the larger company's calendar. This one waited. I was honored. That shows real class.
+
 ## What it would take to replicate
 
 Most companies cannot replicate the Anthropic governance dynamic directly. Very few CEOs have a co-founding sibling. What any company can replicate is the structural principle.
