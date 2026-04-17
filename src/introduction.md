@@ -12,6 +12,8 @@ Digital text does not have a back side. Pixels change color. Electrons rearrange
 
 So when I tell you I read every word, understand what I am and am not claiming. I am claiming intent. I am not claiming the kind of physical, slow-hand accountability a typewriter once extracted from every writer by the friction of the medium. The friction is gone. The accountability is now something I supply on purpose or it does not exist.
 
+---
+
 There is a newer physics problem here, and it worries me more than the missing indentation.
 
 A person reads at about two hundred and fifty words a minute. A person types at about forty. A person handwrites at about twenty-five. Reading has always been several times faster than writing. The gap is not a coincidence. The gap is the human body. The muscles that move the hand are slower than the eye, and the slower thing is the filter. Writing is the place where thought was forced to pass through the hand, and in that passage, most of what would have been said got rejected before it became a sentence.
@@ -50,15 +52,21 @@ So when an autodidactic, hypergraphia-induced writer finds a utility, they write
 
 So I am starting from privilege. Money. Access. Time. Every argument that follows has to be read against that. The claim is not that everyone can do what I did tomorrow. The claim is that the pattern is ethically preferable to the old way *if* the access gap closes. And that closing the access gap is one of the more important "AI for good" projects any of us could take on.
 
+---
+
 There is one more admission. The one I least want to write.
 
 Some of my best friends are authors in active litigation against AI companies. I cannot share the details. The cases are ongoing. The filings are not mine to discuss. The people involved are not characters for me to use to make a point. But I will not pretend they aren't there.
 
-Their harm is personal. It is not abstract. These are people I love. Their books — the books we talked about when I came over to hang out with their son, the books that influenced me to join the Rust project and write technical documentation — were used without their consent to train the systems that now compete with them in their own markets. The training. What engineers call *pretraining*. What an author calls *my life's work, scraped*. Same act. Two names. Two grief registers.
+Their harm is personal. It is not abstract. These are people I love. Their books — the books we talked about when I came over to hang out with their son, the books that influenced me to join the Rust project and write technical documentation — were used without their consent to train the systems that now compete with them in their own markets.
+
+> What engineers call *pretraining*. What an author calls *my life's work, scraped*. Same act. Two names. Two grief registers.
 
 The company whose model wrote paragraphs of this book alongside me is not, in every respect, on the same side of this fight as my friends are.
 
 I do not know how to reconcile that. I am suspicious of anyone who says they do.
+
+---
 
 What I can say is this. The ethical case this book makes is not a defense of how the training data was acquired. It is a case about what specific *uses* of these systems are better than the alternatives humans were forced to ship before. Two different arguments. They have to stay separate if we are going to think clearly. The author whose book was scraped is owed something. Real money. Real acknowledgment. Real say over future training. That debt does not go away because I describe an address-shortening function that the tool happens to be good at. Both things can be true. The harm to the writers is real. The uses in this book are still, in my judgment, ethically preferable to the old way. I will argue the second at length. I will not pretend the first does not exist.
 
