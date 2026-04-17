@@ -72,7 +72,7 @@ Applicants prefer this. Not a little. A lot.
 
 Seventy-four percent of frontline workers in Fountain's 2025 Frontline Report said they prefer AI-driven interviews over waiting for a human scheduler. That is not a thin margin. That is an overwhelming majority of the people the product is built for choosing the AI path over the human one.
 
-Their logic is simple. A possible human interview next week is not a job. A structured interview tonight, on their schedule, scored against a rubric — that is a real shot. They take the real shot every time.
+Their logic is simple. A possible human interview next week is not a job. A structured interview tonight, on their schedule, scored against a rubric — that is a real shot. They take the real shot three out of four times.
 
 Recruiters prefer it too. They stop sitting through two-hour Zoom calls with candidates who never matched the hard requirements. The candidates who reach the human round are already in the rubric's top quartile.
 
