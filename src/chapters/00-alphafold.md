@@ -104,6 +104,12 @@ The honest part, every chapter: a tool this powerful, released this widely, will
 
 That is not an argument against the tool. It is the cost of the tool. The cost is there. The benefit is larger. Both things are true. I will not pretend otherwise.
 
+There is one more honest thing to name, and it is about the scope of the claim this book is making.
+
+AlphaFold is not an LLM. It is a transformer-based system trained on protein structures, not a language model trained on text. Same architectural family — the transformer, the attention mechanism, the scaling era — but a cousin of Claude, not an instance of it.
+
+AlphaFold opens this book because it is the proof that AI at scale can be deployed for public good, at a level the Nobel Committee has settled. The claim this book extends, at smaller scales, with LLMs, is the same claim. The tool is not the same tool.
+
 ## The Rust part
 
 AlphaFold itself is written in JAX. JAX is a Python library for machine learning. Python is the language of machine learning because Python is what the researchers know. Fine.
